@@ -21,5 +21,10 @@
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
     "sinon": "^7.4.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11",
+    "socket.io": "^2.3.0"
   }
 }
