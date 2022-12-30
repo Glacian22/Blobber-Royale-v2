@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Glacian22/Blobber-Royale-v2#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "sinon": "^7.4.2"
   }
 }
